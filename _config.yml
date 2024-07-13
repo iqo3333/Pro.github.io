@@ -11,16 +11,9 @@ navigation:
     url: /about
   - name: 分类
     url: /tags
-  - name: 大陆首页
+  - name: 首页(中国大陆)
     url: https://www.iqo3333.top
-  - name: 大陆资源库
-    url: https://www.iqo3333.top/resource
-  - name: 大陆体验中心
-    url: https://www.iqo3333.top/ExperienceCenter
-  - name: 大陆关于博客
-    url: https://www.iqo3333.top/about
-  - name: 大陆博客公告
-    url: https://www.iqo3333.top/Announcements
+
 
 paginate: 8
 
