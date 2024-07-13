@@ -2,7 +2,7 @@
 layout: post
 title: "来自博主的一封信——致每一个我们"
 date:   2024-7-13
-tags: [notice]
+tags: [Pro_Pro]
 comments: true
 author: Pro_Pro
 ---
