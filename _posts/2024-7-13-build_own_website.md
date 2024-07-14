@@ -17,7 +17,7 @@ author: Pro_Pro
 
 ## top1(English). Access problem resolutions
 
-If you often can't access https://iqo3333.github.io you can go to [https://iqo3333.top] (https://iqo3333.top) or (https://www.iqo3333.top) These two domains go through Cloudflare (Omnicast) proxy and redirect to (https://iqo3333.e.cn.vc) . If you're in a region where Cloudflare is also not accessible, go straight to (https://iqo3333.e.cn.vc), but I don't recommend it, as it doesn't go through a Cloudflare proxy
+If you often can't access https://iqo3333.github.io you can go to [https://iqo3333.top](https://iqo3333.top) or (https://www.iqo3333.top) These two domains go through Cloudflare (Omnicast) proxy and redirect to (https://iqo3333.e.cn.vc) . If you're in a region where Cloudflare is also not accessible, go straight to (https://iqo3333.e.cn.vc), but I don't recommend it, as it doesn't go through a Cloudflare proxy
 Will reveal your iP address if you don't mind please when I didn't say!
 
 
