@@ -10,10 +10,10 @@ navigation:
   - name: 关于
     url: /about
   - name: 分类
-    url: /tags
-  - name: 首页(中国大陆)
+    url: /category
+  - name: 中国首页(简体中文)
     url: https://www.iqo3333.top
-  - name: Home(English)
+  - name: Home in China(English)
     url: https://iqo3333en.e.cn.vc
 
 paginate: 8
