@@ -11,6 +11,8 @@ navigation:
     url: /about
   - name: 分类
     url: /category
+  - name: App下载
+    url: https://github.com/iqo3333/iqo3333.github.io/releases
   - name: 中国首页(简体中文)
     url: https://www.iqo3333.top
   - name: Home in China(English)
