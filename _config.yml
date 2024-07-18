@@ -11,7 +11,7 @@ navigation:
     url: /about
   - name: 分类
     url: /category
-  - name: 下载
+  - name: App发行版本
     url: https://github.com/iqo3333/iqo3333.github.io/releases
     
 paginate: 8
