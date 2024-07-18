@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "博客常见问题解决和回答"
+title: "常见问题的解决办法"
 date:   2024-7-19更新
 tags: [问题解决]
 comments: true
