@@ -2,7 +2,7 @@
 layout: post
 title: "用户手册"
 date:   2024-7-19更新
-tags: [Pro_Pro]
+tags: [用户手册]
 comments: true
 author: pianfan
 ---
