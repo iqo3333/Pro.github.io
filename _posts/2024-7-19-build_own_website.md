@@ -2,7 +2,7 @@
 layout: post
 title: "常见问题的解决办法"
 date:   2024-7-19更新
-tags: [问题解决]
+tags: [wentijiejue]
 comments: true
 author: Pro_Pro
 ---
